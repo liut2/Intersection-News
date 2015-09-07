@@ -2,16 +2,13 @@
   "images" : [
     {
       "idiom" : "universal",
-      "scale" : "1x",
-      "filename" : "wechat moment-r@1x.png"
+      "scale" : "2x",
+      "filename" : "sina_weibo_r@2x.png"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "3x"
+      "scale" : "3x",
+      "filename" : "sina_weibo_r@3x.png"
     }
   ],
   "info" : {
